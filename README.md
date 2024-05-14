@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandzhi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandzhi&langs_count=8)
 
 - 👋 Hi, I’m @Mandzhi
 - 👩🏻‍💻 I’m interested in data science / data analysis, machine learning and IT
